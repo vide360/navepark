@@ -1,0 +1,58 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_249CAD52_3C4E_7840_41BD_83C3967E77BD.source = https://api.whatsapp.com/send/?phone=5551981225487&text=&app_absent=0&utm_source=WHATSS_NAVEPARK
+LinkBehaviour_2DEC9D38_3BC3_B9C0_41BD_B84B2207C96E.source = https://api.whatsapp.com/send/?phone=5551981225487&text=&app_absent=0&utm_source=WHATSS_NAVEPARK
+LinkBehaviour_2499DD59_3C4E_7840_41C6_E2F0B6C3EBD7.source = https://www.galpoesindustriaisitajai.com.br/
+LinkBehaviour_244DDB86_3C4E_98C1_41A8_AE80DDB0E9E3.source = https://www.galpoesindustriaisitajai.com.br/
+LinkBehaviour_2E19D9EC_3BC1_F847_41AA_603855D206FB.source = https://www.instagram.com/galpoesindustriaisitajai/
+LinkBehaviour_249C6D56_3C4E_7840_41C0_CAEA00682CA2.source = https://www.instagram.com/galpoesindustriaisitajai/
+
+## Media
+
+### Audio
+audiores_2D5F8758_3BC2_8840_41B2_7FFC1F0710F7.mp3Url = media/audio_2EA71FC1_3BCF_9840_41C6_9BB461DC177B_pt.mp3
+
+### Title
+video_5AC34E1C_483A_CB9B_41C1_AB3C9AE6E866.label = 02_NAVEPARK - ITAJAI APRESENTANDO
+video_5AA6DA57_483D_CB96_41CA_F8A172180508.label = 04_NAVEPARK - Região Itajai procura de galpoes
+panorama_3157C045_3BC1_8840_41CB_192032DE12D5.label = navepark_01
+panorama_318D7726_3BC1_89C0_41C1_BF6D08DDF038.label = navepark_02
+panorama_318EBC27_3BC1_9FC0_41AB_7FCDD8A29F2D.label = navepark_03D
+panorama_318AE71D_3BC1_89C0_41C6_F589244F347A.label = navepark_03E
+panorama_318871BF_3BC1_88C0_41CB_13A207709ACC.label = navepark_04D
+panorama_3188BB99_3BC2_78C0_41C2_AE2E3AF2900A.label = navepark_04E
+panorama_31889509_3BC2_89C0_41CD_590978F25CF7.label = navepark_05E
+panorama_31880B1D_3BC2_99C0_41B0_186DB2418540.label = navepark_06D
+panorama_3189B1EB_3BC2_8840_41B0_EBE5DE8751F5.label = navepark_06E
+
+### Video
+videolevel_59A41446_482D_DFF6_41B7_6C26153AE373.posterURL = media/video_5AA6DA57_483D_CB96_41CA_F8A172180508_poster_pt.jpg
+videolevel_5AAE1C48_48D5_CFFA_41AF_9F06F08A80DD.posterURL = media/video_5AA6DA57_483D_CB96_41CA_F8A172180508_poster_pt.jpg
+videolevel_59A41446_482D_DFF6_41B7_6C26153AE373.url = media/video_5AA6DA57_483D_CB96_41CA_F8A172180508_pt.m3u8
+videolevel_5AAE1C48_48D5_CFFA_41AF_9F06F08A80DD.url = media/video_5AA6DA57_483D_CB96_41CA_F8A172180508_pt.mp4
+videolevel_5B2396D5_483E_F895_41CC_9C5584080134.posterURL = media/video_5AC34E1C_483A_CB9B_41C1_AB3C9AE6E866_poster_pt.jpg
+videolevel_59B3714D_482D_D9FA_41D1_20BC8EB93775.posterURL = media/video_5AC34E1C_483A_CB9B_41C1_AB3C9AE6E866_poster_pt.jpg
+videolevel_5B2396D5_483E_F895_41CC_9C5584080134.url = media/video_5AC34E1C_483A_CB9B_41C1_AB3C9AE6E866_pt.m3u8
+videolevel_59B3714D_482D_D9FA_41D1_20BC8EB93775.url = media/video_5AC34E1C_483A_CB9B_41C1_AB3C9AE6E866_pt.mp4
+
+## Skin
+
+### Image
+Image_245085DB_3C4F_8840_41C1_29473BD34F61_mobile.url = skin/Image_245085DB_3C4F_8840_41C1_29473BD34F61_mobile_pt.png
+Image_245085DB_3C4F_8840_41C1_29473BD34F61.url = skin/Image_245085DB_3C4F_8840_41C1_29473BD34F61_pt.png
+Image_2CB91E99_3BC2_98C0_41C1_3C85C2B0626A_mobile.url = skin/Image_2CB91E99_3BC2_98C0_41C1_3C85C2B0626A_mobile_pt.png
+Image_2CB91E99_3BC2_98C0_41C1_3C85C2B0626A.url = skin/Image_2CB91E99_3BC2_98C0_41C1_3C85C2B0626A_pt.png
+Image_2CD68535_3BC3_89C0_41C5_B2956A6CA015_mobile.url = skin/Image_2CD68535_3BC3_89C0_41C5_B2956A6CA015_mobile_pt.png
+Image_2CD68535_3BC3_89C0_41C5_B2956A6CA015.url = skin/Image_2CD68535_3BC3_89C0_41C5_B2956A6CA015_pt.png
+Image_2CFB280D_3BC1_87C0_41CD_CE7FEF8B963D_mobile.url = skin/Image_2CFB280D_3BC1_87C0_41CD_CE7FEF8B963D_mobile_pt.png
+Image_2CFB280D_3BC1_87C0_41CD_CE7FEF8B963D.url = skin/Image_2CFB280D_3BC1_87C0_41CD_CE7FEF8B963D_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Navepark
